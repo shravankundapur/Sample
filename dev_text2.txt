@@ -1,0 +1,1 @@
+This is written inside dev_text2 file inside the dev branch`
